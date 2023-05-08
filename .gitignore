@@ -1,5 +1,9 @@
 data
+venv
 *.tar
 snapshots
 __pycache__
 */__pycache__/*
+runs
+slurm*.out
+*.slurm
