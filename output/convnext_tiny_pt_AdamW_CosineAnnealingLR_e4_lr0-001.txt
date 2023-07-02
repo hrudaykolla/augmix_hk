@@ -1,0 +1,68 @@
+convnext_tiny_pt-AdamW-CosineAnnealingLR-e-4-lr0.001
+Files already downloaded and verified
+Files already downloaded and verified
+Beginning training from epoch: 1
+Train Loss 1.609
+Train Loss 1.969
+Train Loss 1.692
+Train Loss 1.282
+Train Loss 1.074
+Train Loss 0.970
+Train Loss 1.001
+Train Loss 0.869
+Epoch   1 | Time    62 | Train Loss 0.9386 | Test Loss 0.001 | Test Error 20.60
+Train Loss 0.082
+Train Loss 0.698
+Train Loss 0.701
+Train Loss 0.785
+Train Loss 0.658
+Train Loss 0.646
+Train Loss 0.683
+Train Loss 0.598
+Epoch   2 | Time    62 | Train Loss 0.6288 | Test Loss 0.000 | Test Error 14.08
+Train Loss 0.057
+Train Loss 0.564
+Train Loss 0.532
+Train Loss 0.592
+Train Loss 0.570
+Train Loss 0.569
+Train Loss 0.560
+Train Loss 0.530
+Epoch   3 | Time    62 | Train Loss 0.5821 | Test Loss 0.000 | Test Error 12.67
+Train Loss 0.045
+Train Loss 0.493
+Train Loss 0.491
+Train Loss 0.475
+Train Loss 0.513
+Train Loss 0.506
+Train Loss 0.505
+Train Loss 0.468
+Epoch   4 | Time    63 | Train Loss 0.5124 | Test Loss 0.000 | Test Error 11.46
+gaussian_noise
+	Test Loss 0.001 | Test Error 22.086
+shot_noise
+	Test Loss 0.001 | Test Error 19.746
+impulse_noise
+	Test Loss 0.001 | Test Error 22.414
+defocus_blur
+	Test Loss 0.000 | Test Error 13.818
+glass_blur
+	Test Loss 0.001 | Test Error 28.344
+motion_blur
+	Test Loss 0.000 | Test Error 16.718
+zoom_blur
+	Test Loss 0.000 | Test Error 14.746
+snow
+	Test Loss 0.001 | Test Error 19.378
+frost
+	Test Loss 0.001 | Test Error 19.046
+fog
+	Test Loss 0.001 | Test Error 19.276
+brightness
+	Test Loss 0.000 | Test Error 13.390
+contrast
+	Test Loss 0.001 | Test Error 18.790
+elastic_transform
+	Test Loss 0.001 | Test Error 17.076
+pixelate
+	Test Loss 0.001 | Test Error 17.572

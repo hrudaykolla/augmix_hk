@@ -1,0 +1,53 @@
+convnext_tiny_pt-AdamW-CosineAnnealingLR-e-2-lr0.001
+Files already downloaded and verified
+Files already downloaded and verified
+Beginning training from epoch: 1
+Train Loss 1.609
+Train Loss 2.192
+Train Loss 1.363
+Train Loss 1.021
+Train Loss 0.936
+Train Loss 0.831
+Train Loss 0.841
+Train Loss 0.757
+Epoch   1 | Time    62 | Train Loss 0.7042 | Test Loss 0.001 | Test Error 17.60
+Train Loss 0.076
+Train Loss 0.644
+Train Loss 0.640
+Train Loss 0.679
+Train Loss 0.632
+Train Loss 0.623
+Train Loss 0.630
+Train Loss 0.595
+Epoch   2 | Time    62 | Train Loss 0.5720 | Test Loss 0.000 | Test Error 12.69
+gaussian_noise
+	Test Loss 0.001 | Test Error 20.674
+shot_noise
+	Test Loss 0.001 | Test Error 18.832
+impulse_noise
+	Test Loss 0.001 | Test Error 22.014
+defocus_blur
+	Test Loss 0.000 | Test Error 14.952
+glass_blur
+	Test Loss 0.001 | Test Error 30.266
+motion_blur
+	Test Loss 0.001 | Test Error 18.816
+zoom_blur
+	Test Loss 0.001 | Test Error 16.850
+snow
+	Test Loss 0.001 | Test Error 19.648
+frost
+	Test Loss 0.001 | Test Error 17.658
+fog
+	Test Loss 0.001 | Test Error 19.066
+brightness
+	Test Loss 0.000 | Test Error 13.466
+contrast
+	Test Loss 0.000 | Test Error 16.146
+elastic_transform
+	Test Loss 0.001 | Test Error 18.770
+pixelate
+	Test Loss 0.001 | Test Error 18.280
+jpeg_compression
+	Test Loss 0.001 | Test Error 17.256
+Mean Corruption Error: 18.846
